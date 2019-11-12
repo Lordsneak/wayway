@@ -1,0 +1,139 @@
+body{
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color:#f4f4f4;
+}
+header{
+	background:#273c75;
+	height: 120px;
+	
+}
+.s1{;
+	color: #44bd32;
+	font-size: 50px;
+}
+.s2{;
+	color: #353b48;
+	font-size: 45px;
+}
+li{
+	float: right;
+	list-style: none;
+	
+	margin-bottom: 5px;
+	font-weight: bolder;
+	position: absolute;
+	top: 40px;
+
+}
+ul #li1{
+	position: absolute;
+	left: 80%;
+}
+ul #li2{
+	position: absolute;
+	left: 85%;
+}
+ul #li3{
+	position: absolute;
+	left: 92%;
+
+}
+li a{
+	color: #fff;
+}
+.nav1{
+	height: 300px;
+	background: url(images/lacoste.png);
+	color: #fff;
+	border-top: border: #44bd32 solid 2px;
+	
+	
+}
+#tarayah{
+	font-size: 32px;
+	font-family: Comic Sans MS
+;
+	position: absolute;
+	top: 270px;
+	left: 500px;
+}
+.s3
+{
+	color: #000;
+	margin: 30px;
+	margin-bottom: 10px;
+
+
+}
+.afternav{
+	color: #000;
+}
+.sub{
+	
+	background: #273c75;
+	padding-top: 30px;
+
+}
+.input [type="email"]{
+	float:right;
+	margin-top: -30px;
+	position: absolute;
+	top: 420px;
+	left: 1000px;
+	
+}
+.input [type="submit"]{
+	float:right;
+	margin-top: -30px;
+	position: absolute;
+	top: 415px;
+	left: 1170px;
+	background: #44bd32;
+	border: none;
+	height: 30px;
+
+}
+div img{
+	float: left;
+	padding: 60px;
+}
+#des1{
+	position:absolute;
+	top: 800px;
+	left:100;
+	width: 300px;
+}
+#des2{
+	position:absolute;
+	top: 800px;
+	left:500;
+	width: 300px;
+}
+#des3{
+	position:absolute;
+	top: 800px;
+	left:900;
+	width: 300px;
+}
+
+footer{
+	background-color: #273c75;
+	height: 50px;
+	position: absolute;
+	top: 900px;
+	width: 1263px;
+	}
+	.afternav{
+		padding:300px;
+	}
+	footer p{
+		position: absolute;
+		left: 900px;
+		color: #fff;
+	}
+	footer p a{
+		color: #fff;
+		targit:blank;
+	}
