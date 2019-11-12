@@ -1,0 +1,5 @@
+<footer>
+
+<p>All Right Reserved to Maryoul</p>
+<a href = "mailto: lacostema@gmail.com">Send Email</a>
+</footer>
