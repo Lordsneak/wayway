@@ -102,19 +102,19 @@ div img{
 #des1{
 	position:absolute;
 	top: 800px;
-	left:100;
+	left: 65;
 	width: 300px;
 }
 #des2{
 	position:absolute;
 	top: 800px;
-	left:500;
+	left: 490;
 	width: 300px;
 }
 #des3{
 	position:absolute;
 	top: 800px;
-	left:900;
+	left: 910;
 	width: 300px;
 }
 
@@ -145,7 +145,7 @@ footer{
 	border: 2px solid #273c75; /* Green */
 	position: absolute;
 	top: 870px;
-	left: 100px;
+	left: 150px;
 }
 .b2{
 	background: black solid 2px; 
@@ -155,7 +155,7 @@ footer{
 	border: 2px solid #273c75; /* Green */
 	position: absolute;
 	top: 870px;
-	left: 500px;
+	left: 550px;
 }
 .b3{
 	background: black solid 2px; 
@@ -165,9 +165,17 @@ footer{
 	border: 2px solid #273c75; /* Green */
 	position: absolute;
 	top: 870px;
-	left: 900px;
+	left: 1000px;
 }
 .b1:hover {
+		background-color: #FFFFFF; /* Green */
+		color: white;
+}
+.b2:hover {
+		background-color: #FFFFFF; /* Green */
+		color: white;
+}
+.b3:hover {
 		background-color: #FFFFFF; /* Green */
 		color: white;
 }
