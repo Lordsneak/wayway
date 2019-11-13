@@ -137,3 +137,33 @@ footer{
 		color: #fff;
 		targit:blank;
 	}
+.b1{
+	background: black solid 2px; 
+	color: black;
+	width: 150px;
+	transition-duration: 0.25s;
+	border: 2px solid #273c75; /* Green */
+	position: absolute;
+	top: 870px;
+	left: 100px;
+}
+.b2{
+	background: black solid 2px; 
+	color: black;
+	width: 150px;
+	transition-duration: 0.25s;
+	border: 2px solid #273c75; /* Green */
+	position: absolute;
+	top: 870px;
+	left: 500px;
+}
+.b3{
+	background: black solid 2px; 
+	color: black;
+	width: 150px;
+	transition-duration: 0.25s;
+	border: 2px solid #273c75; /* Green */
+	position: absolute;
+	top: 870px;
+	left: 900px;
+}
