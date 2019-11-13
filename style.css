@@ -167,3 +167,7 @@ footer{
 	top: 870px;
 	left: 900px;
 }
+.b1:hover {
+		background-color: #FFFFFF; /* Green */
+		color: white;
+}
